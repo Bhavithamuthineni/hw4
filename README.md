@@ -15,7 +15,7 @@ This is a simple React web application that displays the current weather for the
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/hw4.git
+git clone [https://github.com/your-username/hw4.git](https://github.com/Bhavithamuthineni/hw4.git)
 ```
 
 2. Navigate to the project directory:
